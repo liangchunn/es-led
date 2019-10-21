@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino Uno",
+            "compilerPath": "/usr/local/bin/avr-gcc",
+            "includePath": [
+                "/usr/local/Cellar/avr-gcc/9.2.0/avr/include/avr"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/usr/local/Cellar/avr-gcc/9.2.0/avr/include/avr"
+                ]
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
